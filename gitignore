@@ -1,0 +1,12 @@
+pycache/
+*.pyc
+*.pyo
+govdigital_data/
+*.json
+!.gitignore
+.venv/
+venv/
+ENV/
+.streamlit/secrets.toml
+.vscode/
+.idea/
